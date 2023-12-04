@@ -9,27 +9,27 @@ These notebooks will help readers gain a comprehensive understanding of data ana
  
 ### Data Exploration:
 •	Loading python libraries <br>
-•	Loading datasets 
-•	Exploring data structure, using the example of the 2015 cohort
-•	Checking dataset variables and size
-•	Subsetting data, with examples of specific study majors
-•	Generating descriptive statistics, including mean, standard deviation, counts, and quantiles, illustrated with the "year7earnings" variable
+•	Loading datasets <br>
+•	Exploring data structure, using the example of the 2015 cohort <br>
+•	Checking dataset variables and size <br>
+•	Subsetting data, with examples of specific study majors <br>
+•	Generating descriptive statistics, including mean, standard deviation, counts, and quantiles, illustrated with the "year7earnings" variable <br>
 •	Identifying missing values in "year7earnings"
 ### Data Linkage Python & SQL - similar structure just with different languages!
-•	Introducing cross-section data, consisting of three datasets: master, employment, and education
-•	Establishing database connection and loading data to the database 
-•	Demonstrating how to left join master with employment in SQL language
-•	Performing the inner join of master with employment in SQL language, leading to missing entries for those without employment in the combined dataset
+•	Introducing cross-section data, consisting of three datasets: master, employment, and education <br>
+•	Establishing database connection and loading data to the database <br>
+•	Demonstrating how to left join master with employment in SQL language <br>
+•	Performing the inner join of master with employment in SQL language, leading to missing entries for those without employment in the combined dataset <br>
 •	Right merging master with education in Python
 ### Measurement:
-•	Defining degree completers, non-completers, and degree pursuers
-•	Assessing the quality of work by examining year 7 earnings, the number of jobs, high-earning jobs, employment duration, average earnings per employment quarters under different completion status.
-•	Analyzing year 7 earnings, the number of jobs, high earning jobs, employment duration, average earnings per employment quarters for different majors in different completion status.
+•	Defining degree completers, non-completers, and degree pursuers<br>
+•	Assessing the quality of work by examining year 7 earnings, the number of jobs, high-earning jobs, employment duration, average earnings per employment quarters under different completion status<br>
+•	Analyzing year 7 earnings, the number of jobs, high earning jobs, employment duration, average earnings per employment quarters for different majors in different completion status<br>
 ### Data Visualization
-•	Introducing the visualization packages: matplotlib and seaborn.
-•	Explaining how to create simple and information visualizations.
-•	Demonstrating how to create a boxplot with an example of earnings distributions by major.
-•	Demonstrating how to create a count plot with an example of missingness in earnings by major.
-•	Demonstrating how to create a line plot with an example of time trends in earnings by major.
-•	Demonstrating how to create a bar chart with an example of median earnings by major and completion status. 
+•	Introducing the visualization packages: matplotlib and seaborn<br>
+•	Explaining how to create simple and information visualizations<br>
+•	Demonstrating how to create a boxplot with an example of earnings distributions by major<br>
+•	Demonstrating how to create a count plot with an example of missingness in earnings by major<br>
+•	Demonstrating how to create a line plot with an example of time trends in earnings by major<br>
+•	Demonstrating how to create a bar chart with an example of median earnings by major and completion status<br>
 ![image](https://github.com/XiangyuRen1997/Data-Literacy-and-Evidence-Building-Notebooks/assets/100244372/d0760fa3-d18e-447d-83c7-0c0f7c65295f)
