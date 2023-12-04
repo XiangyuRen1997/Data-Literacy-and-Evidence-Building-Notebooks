@@ -8,8 +8,8 @@
 These notebooks will help readers gain a comprehensive understanding of data analysis and manipulation techniques.
  
 ### Data Exploration:
-•	Loading python libraries//
-•	Loading datasets//
+•	Loading python libraries //
+•	Loading datasets //
 •	Exploring data structure, using the example of the 2015 cohort//
 •	Checking dataset variables and size//
 •	Subsetting data, with examples of specific study majors//
