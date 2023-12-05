@@ -45,6 +45,3 @@ These notebooks will help readers gain a comprehensive understanding of data ana
 •	Evaluate the Logistic Regression model using confusion matrix, accuracy at k, precision at k, and recall at k, where k means the percentage of students we will predict to have successful outcomes<br>
 •	Run the Decision Tree model<br>
 •	Compare multiple machine learning models (Logistic Regression, Decision Tree, and Random Forest) with two baseline models (randomly guess outcomes and guess everyone has a successful outcome), and evaluate the models using precision at k, accuracy at k, and recall at k<br>
-![image](https://github.com/XiangyuRen1997/Data-Literacy-and-Evidence-Building-Notebooks/assets/100244372/2206a22f-c4a4-4006-bf99-04ad46b33fdd)
-
-![image](https://github.com/XiangyuRen1997/Data-Literacy-and-Evidence-Building-Notebooks/assets/100244372/d0760fa3-d18e-447d-83c7-0c0f7c65295f)
