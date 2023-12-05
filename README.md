@@ -10,7 +10,7 @@
 
 These notebooks will help readers gain a comprehensive understanding of data analysis and manipulation techniques.
  
-### Data Exploration:
+### Data Exploration
 •	Loading python libraries <br>
 •	Loading datasets <br>
 •	Exploring data structure, using the example of the 2015 cohort <br>
@@ -24,7 +24,7 @@ These notebooks will help readers gain a comprehensive understanding of data ana
 •	Demonstrating how to left join master with employment in SQL language <br>
 •	Performing the inner join of master with employment in SQL language, leading to missing entries for those without employment in the combined dataset <br>
 •	Right merging master with education in Python
-### Measurement:
+### Measurement
 •	Defining degree completers, non-completers, and degree pursuers<br>
 •	Assessing the quality of work by examining year 7 earnings, the number of jobs, high-earning jobs, employment duration, average earnings per employment quarters under different completion status<br>
 •	Analyzing year 7 earnings, the number of jobs, high earning jobs, employment duration, average earnings per employment quarters for different majors in different completion status<br>
