@@ -8,7 +8,8 @@
 5.	Machine Learning Data Preparation: This notebook covers how to prepare the data for machine learning models, including how to generate the label and the features.
 6.	Machine Learning Job Quality: This notebook covers how to develop supervised machine learning models and how to evaluate the models with metrics such as precision and recall. 
 
-These notebooks will help readers gain a comprehensive understanding of data analysis and manipulation techniques.
+These notebooks will help readers gain a comprehensive understanding of data analysis and manipulation techniques. 
+Data used: Haensch, Anna-Carolina; Tombari, Angela (2023). Syntucky Postsecondary to workforce[unpublished synthetic data]. Synthesized from Kentucky Longitudinal Data System (KLDS) for training purpose. 
  
 ### Data Exploration
 •	Loading python libraries <br>
